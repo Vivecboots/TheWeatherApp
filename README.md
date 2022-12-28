@@ -1,2 +1,0 @@
-# TheWeatherApp
-TheWeatherApp
