@@ -70,10 +70,22 @@ function App() {
   }
 
   if (!weather) {
-    //get locastion name
+    
   
     return <div>Loading weather data...</div>;
   }
+
+
+
+
+
+
+
+
+
+
+
+
 
   return (
     <div>
